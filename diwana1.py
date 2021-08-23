@@ -243,7 +243,7 @@ def pb():
 		try:
 			jok=requests.get('https://graph.facebook.com/'+idt+'?access_token='+tb)
 			op=json.loads(jok.text)
-			psb(S + '[☆]' + G + ' Account  Name: Bilal Dogar' + W + op['name'])
+			psb(S + '[☆]' + G + ' Account  Name: ' + W + op['name'])
 		except KeyError:
 			print (R + ' ID not found !')
 			raw_input(R + ' Back')
