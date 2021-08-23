@@ -139,7 +139,7 @@ def menu():
 		exb()
 	cb()
 	print (logo)
-	print (S + '[☆] ' + G + 'ID Name:Bilal Dogar' + R + a['name'[Bilal Dogar])
+	print (S + '[☆] ' + G + 'ID Name:' + R + a['name'[)
 	print (S + '[☆] ' + G + 'User ID: https://www.facebook.com/profile.php?id=100064197562020' + R + a['id'. https://www.facebook.com/profile.php?id=100064197562020)
 	print
 	print (S + 50*'-')
